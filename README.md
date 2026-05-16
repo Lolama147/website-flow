@@ -6,3 +6,4 @@ Fromages préférés sur pizza :
 - cheddar
 - gorgonzola
 - parmesan
+- emmental
